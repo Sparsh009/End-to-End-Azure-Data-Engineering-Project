@@ -30,7 +30,7 @@ Welcome to the **Azure Data Engineering Project**! This project is designed to a
 - **Dataset Management:** Managed comprehensive datasets with schema validation and data governance best practices.
 - **Dynamic Pipelines:** Implemented parameterization and looping to handle multiple datasets dynamically.
 - **Real-Time Scenarios:** Addressed practical challenges commonly encountered in data engineering roles and interviews.
-- **Interview Preparation:** Incorporated common interview questions and scenarios to enhance problem-solving skills.
+
 
 ## Architecture
 
