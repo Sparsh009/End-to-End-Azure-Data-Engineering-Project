@@ -215,6 +215,5 @@ Follow these steps to set up the project environment:
 2. **Publish Dashboards:**
    - Publish your Power BI reports to the Power BI service for sharing with stakeholders.
 
-## Project Structure
 
 
