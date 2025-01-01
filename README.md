@@ -49,7 +49,8 @@ The project follows the **Medallion Architecture**, which organizes data into th
    - **Purpose:** Serve refined data to stakeholders through a data warehouse.
    - **Tools:** Azure Synapse Analytics, Power BI.
 
-![Medallion Architecture](https://docs.microsoft.com/en-us/azure/data-lake/media/data-lake-storage/medallion-architecture.png)
+![image](https://github.com/user-attachments/assets/487fc52d-b1f4-4178-ac28-d0497600ca95)
+
 
 ## Technologies Used
 
